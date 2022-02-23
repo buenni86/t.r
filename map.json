@@ -1467,7 +1467,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"hawaii.png"
+         "value":"map.png"
         }, 
         {
          "name":"mapName",
